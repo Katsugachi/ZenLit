@@ -1,4 +1,5 @@
 # ZenLit
-lite chess engine
+lite chess engine wrapper & UI for stockfish 18 lite
+optimized for browser performance
 # To Actually Play Against
-download ZenLit.html and open it like a pdf
+open the site link
