@@ -90,7 +90,7 @@ let uciMoves=[], sfWorker=null;
 
 try {
     // Load the local file directly from GitHub Pages
-    sfWorker = new Worker('zenlit-1-lite.js');
+    sfWorker = new Worker('stockfish-18-lite.js');
     console.log("Worker initialized successfully!");
 
     sfWorker.onmessage = function(E){
